@@ -6,16 +6,76 @@ h1 {
     background-color: rgb(237, 236, 238);
 }
 body{
-    font-family: 'Arima Madurai', cursive;font
-    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
     background-color: rgb(237, 234, 240);
     }
-h2 {font-family: 'Italiana', serif;
+ a {text-decoration: none;
+ }
+h2 {
+    color: rgb(45, 14, 51);
+
+    
 }
-a {
-   
-}
+
 strong {
     font-style: italic;
+    
+color:rgb(88, 21, 88)
 
 }
+li{
+    list-style-type: none;
+}
+.quemsou {
+    font-size: 22px;
+    color: rgb(44, 40, 44);
+    font-family: 'Poiret One', cursive;
+}
+.oquefaco {
+    font-size: 21px;
+    color: rgb(44, 40, 44);
+    font-family: 'Poiret One', cursive;
+    
+
+}
+.formacao {
+    font-size: 20px;
+    color: rgb(44, 40, 44);
+    font-family: 'Poiret One', cursive;
+    
+
+}
+.oquefiz { 
+    font-size: 19px;
+    color: rgb(44, 40, 44);
+    font-family: 'Poiret One', cursive;
+    
+
+}
+.minhadirecao {
+    font-size: 18px;
+    color: rgb(44, 40, 44);
+    font-family: 'Poiret One', cursive;
+}
+    
+#emconstrucao{
+    color: rgb(110, 121, 88);
+    font-family:'Poiret One', cursive;
+
+}
+
+ .retorno-inicio {
+    
+    font-family:'Poiret One', cursive;
+     font-size: 14px;
+     letter-spacing: 2px;
+}
+
+
+ #text-tec-art-educ {
+     font-size:20px;
+     color: rgb(58, 54, 58);
+ }
+ img {
+     border-radius: 50%;
+ }
