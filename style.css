@@ -23,8 +23,9 @@ strong {
 color:rgb(88, 21, 88)
 
 }
-li{
-    list-style-type: none;
+ul{
+   list-style-type: none;
+ 
 }
 .quemsou {
     font-size: 22px;
@@ -47,14 +48,13 @@ li{
 }
 .oquefiz { 
     font-size: 19px;
-    color: rgb(44, 40, 44);
     font-family: 'Poiret One', cursive;
     
 
 }
 .minhadirecao {
     font-size: 18px;
-    color: rgb(44, 40, 44);
+    
     font-family: 'Poiret One', cursive;
 }
     
